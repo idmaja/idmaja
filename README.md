@@ -1,7 +1,3 @@
-Sure, here is a GitHub profile description with various emoticons and an engaging theme for you:
-
----
-
 ### 👋 Hi there, welcome to my GitHub profile!
 
 I'm an undergraduate student in **Informatics Engineering** 🎓, passionate about technology and software development. Here's a bit about me and my skills:
@@ -41,6 +37,3 @@ Feel free to reach out to me via [email@example.com](mailto:dhimasm999@gmail.com
 
 Happy coding! 😄✨
 
----
-
-You can customize this further according to your preferences or add more personal touches.
