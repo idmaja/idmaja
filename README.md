@@ -1,33 +1,50 @@
-### 👋 Hi there, welcome to my GitHub profile!
+<br clear="both">
 
-I'm an undergraduate student in **Informatics Engineering** 🎓, passionate about technology and software development. Here's a bit about me and my skills:
+<h2 align="left">Hi 👋! My name is Dhimas and I'm a Software Enginner, from Indonesia</h2>
 
----
+###
 
-### 🔧 Skills & Technologies:
-- **Laravel** 🧑‍💻 | Building powerful web applications
-- **PHP** 🐘 | Server-side scripting and backend development
-- **Front-End Development** 🌐 | Creating stunning and responsive user interfaces with:
-  - **HTML** 📄
-  - **CSS** 🎨
-  - **JavaScript** ⚙️
-- **Bootstrap** 🚀 | Rapid web design and development
-- **Next.js** & **React.js** ⚛️ | Modern frameworks for seamless front-end experiences
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=idmaja&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=idmaja&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-### 🌟 Let's talk about something exciting: 
-#### **"The Future of Web Development: Trends & Innovations"**
+<div align="left">
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+</div>
 
-The world of web development is evolving at lightning speed. Here are a few captivating topics that have piqued the interest of developers and tech enthusiasts around the globe:
+###
 
-1. **Serverless Architecture** ☁️: Discover how deploying applications without managing servers is simplifying workflows.
-2. **AI & Machine Learning in Web Apps** 🤖: Explore the integration of smart features and predictive analytics.
-3. **Progressive Web Apps (PWAs)** 📱: Learn how web apps are transforming to deliver native app-like experiences.
-4. **Jamstack** 🌐: Uncover the benefits of decoupling front-end and back-end for faster, more secure websites.
-5. **WebAssembly** 🕹️: See how bringing high-performance languages to the web is opening new possibilities.
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
 
-Stay tuned to my repositories for projects and experiments related to these cutting-edge technologies! Let's connect, collaborate, and build the future together.
+###
 
 ---
 
