@@ -35,7 +35,7 @@ Stay tuned to my repositories for projects and experiments related to these cutt
 
 ---
 
-Feel free to reach out to me via [email@example.com](mailto:email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com). Let's innovate and code the future! 🚀
+Feel free to reach out to me via [email@example.com](mailto:dhimasm999@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/iddmm). Let's innovate and code the future! 🚀
 
 ---
 
