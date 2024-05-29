@@ -66,7 +66,7 @@ I'm an undergraduate student in **Informatics Engineering** 🎓, passionate abo
 
 ---
 
-Feel free to reach out to me via [email@example.com](mailto:dhimasm999@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/iddmm). Let's innovate and code the future! 🚀
+Feel free to reach out to me via [E-MAIL](mailto:dhimasm999@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/iddmm). Let's innovate and code the future! 🚀
 
 ---
 
