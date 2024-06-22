@@ -14,7 +14,7 @@ I'm an undergraduate student in **Informatics Engineering** 🎓, passionate abo
   - **CSS** 🎨
   - **JavaScript** ⚙️
 - **Bootstrap** 🚀 | Rapid web design and development
-- **Next.js** & **React.js** ⚛️ | Modern frameworks for seamless front-end experiences
+- **Next.js** | Modern frameworks for seamless front-end experiences
 - **Flask** 🌶️ | Lightweight web framework for Python
 - **C & C++** 💻 | Powerful programming for system-level applications
 - **Python** 🐍 | Versatile programming for various applications
