@@ -2,7 +2,7 @@
 
 ### 👋 Hi there, welcome to my profile!!!
 
-I'm an undergraduate student in **Informatics Engineering** 🎓, passionate about technology and software development. Here's a bit about me and my skills:
+I'm an undergraduate student in **Information Technology** 🎓, passionate about technology and software development. Here's a bit about me and my skills:
 
 ---
 
