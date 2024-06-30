@@ -61,7 +61,7 @@ I'm an undergraduate student in **Information Technology** 🎓, passionate abou
 
 ---
 
-Feel free to reach out to me or connect with me on [LinkedIn](https://www.linkedin.com/iddmm). Let's innovate and code the future! 🚀
+Feel free to reach out to me or connect with me on [LinkedIn](https://www.linkedin.com/in/iddmm). Let's innovate and code the future! 🚀
 
 ---
 
