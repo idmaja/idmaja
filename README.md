@@ -14,10 +14,11 @@ I'm an undergraduate student in **Information Technology** 🎓, passionate abou
   - **CSS** 🎨
   - **JavaScript** ⚙️
 - **Bootstrap** 🚀 | Rapid web design and development
-- **Next.js** | Modern frameworks for seamless front-end experiences
+- **Next.js** ⚛️ | Modern frameworks for seamless front-end experiences
 - **Flask** 🌶️ | Lightweight web framework for Python
 - **C & C++** 💻 | Powerful programming for system-level applications
 - **Python** 🐍 | Versatile programming for various applications
+- **Kotlin** 📱 | Mobile Development
 
 ---
 
