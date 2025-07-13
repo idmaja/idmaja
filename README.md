@@ -2,7 +2,7 @@
 
 ### 👋 Hi there, welcome to my profile!!!
 
-I'm an undergraduate student in **Information Technology** 🎓, passionate about technology and software development. Here's a bit about me and my skills:
+I’m passionate about leveraging cutting-edge technologies to design and develop scalable, user-centric software solutions. With a solid foundation in Information Technology, I thrive on tackling complex challenges and continuously learning to stay at the forefront of software development.
 
 ---
 
