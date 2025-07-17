@@ -23,9 +23,5 @@ I’m passionate about leveraging cutting-edge technologies to design and develo
 
 ---
 
-Feel free to reach out to me or connect with me on [LinkedIn](https://www.linkedin.com/in/iddmm). Let's innovate and code the future! 🚀
-
----
-
 Happy coding! 😄✨
 
