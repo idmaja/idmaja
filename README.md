@@ -6,8 +6,6 @@ I am a Software Engineer dedicated to designing and developing scalable, enterpr
 
 I specialize in building robust systems by rigorously applying OOP, SOLID, and KISS principles. This disciplined approach ensures a clean architecture, effectively eliminates future technical debt, and guarantees long-term maintainability for every project I handle.
 
----
-
 
 ## 🌐 Social Media & Portofolio :
 
