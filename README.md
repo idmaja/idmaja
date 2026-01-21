@@ -7,7 +7,7 @@ I am a Software Engineer dedicated to designing and developing scalable, enterpr
 I specialize in building robust systems by rigorously applying OOP, SOLID, and KISS principles. This disciplined approach ensures a clean architecture, effectively eliminates future technical debt, and guarantees long-term maintainability for every project I handle.
 
 
-## 🌐 Social Media & Portofolio :
+## Social Media & Portofolio :
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/idmmawon524)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/idhimasm) 
@@ -16,7 +16,7 @@ I specialize in building robust systems by rigorously applying OOP, SOLID, and K
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:idhimas1@gmail.com) 
 [![Portofolio](https://img.shields.io/badge/Portofolio-1E1A95?logo=about.me&logoColor=white)](https://porto.irvdm.my.id/)  
 
-## 🔧 Skills & Tech Stack:
+## Skills & Tech Stack:
 
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](#)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](#)
